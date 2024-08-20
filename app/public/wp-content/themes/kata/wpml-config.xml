@@ -1,0 +1,27 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">kata_plus_builder</custom-type>
+    <custom-type translate="1">kata_mega_menu</custom-type>
+    <custom-type translate="1">kata_grid</custom-type>
+    <custom-type translate="1">kata_testimonial</custom-type>
+    <custom-type translate="1">kata_recipe</custom-type>
+    <custom-type translate="1">kata_team_member</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">grid_category</taxonomy>
+    <taxonomy translate="1">type</taxonomy>
+    <taxonomy translate="1">grid_tags</taxonomy>
+    <taxonomy translate="1">kata_recipe_category</taxonomy>
+    <taxonomy translate="1">kata_recipe_tag</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">post_time_to_read</custom-field>
+    <custom-field action="copy">kata_post_video</custom-field>
+    <custom-field action="copy">kata_post_video</custom-field>
+    <custom-field action="copy">testimonial_position</custom-field>
+    <custom-field action="copy">testimonial_date</custom-field>
+    <custom-field action="copy">team_job</custom-field>
+    <custom-field action="copy">team_social</custom-field>
+    <custom-field action="copy">_kata_builder_type</custom-field>
+  </custom-fields>
+</wpml-config>

@@ -1,0 +1,1590 @@
+# Copyright (C) 2024 ClimaxThemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kata 1.4.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kata\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-10T08:35:22+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: kata\n"
+
+#. Theme Name of the theme
+#: includes/dashboard/parts/dashboard.header.tpl.php:26
+#: includes/dashboard/parts/dashboard.header.tpl.php:28
+msgid "Kata"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://climaxthemes.com/kata/"
+msgstr ""
+
+#. Description of the theme
+msgid "kata is a Multi-Purpose WordPress theme. it allows you to create any kind of website you can possibly imagine. Lots of different features of this theme have been developed to make a smooth user-experience for the users. Styler is the most important tool in kata as it allows you to customize your website using a simple and straightforward user interface. You can change fonts, backgrounds, colors, and almost any other existing element in the website using the Styler. One could claim that even without any programming knowledge, all CSS codes are available to you via the Styler so you can change every element. kata theme will make it easier than ever to create any website since it includes a lot of ready-made demos. kata key features: One click Demo Import, WooCommerce Ready, Responsive, RTL, Translation Ready, Extendible with premium addons, Regularly updated"
+msgstr ""
+
+#. Author of the theme
+msgid "ClimaxThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://climaxthemes.com/"
+msgstr ""
+
+#: comments.php:32
+msgid "One thought on"
+msgstr ""
+
+#: comments.php:34
+msgid " thought on "
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:69
+msgid "Required fields are marked"
+msgstr ""
+
+#: comments.php:71
+#: woocommerce/single-product-reviews.php:174
+msgid "Name"
+msgstr ""
+
+#: comments.php:72
+#: woocommerce/single-product-reviews.php:181
+msgid "Email"
+msgstr ""
+
+#: comments.php:73
+msgid "Website"
+msgstr ""
+
+#: comments.php:82
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:83
+msgid "Leave a Reply to"
+msgstr ""
+
+#: comments.php:84
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:85
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:87
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:88
+msgid "Login"
+msgstr ""
+
+#: comments.php:89
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:89
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:90
+msgid "Your email address will not be published."
+msgstr ""
+
+#: functions.php:187
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:188
+#: includes/theme-options/options/footer-options.php:120
+#: includes/theme-options/options/footer-options.php:155
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:375
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:377
+#: functions.php:390
+#: functions.php:402
+#: functions.php:413
+#: functions.php:424
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:388
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:400
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:411
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:422
+msgid "Footer Column 3"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: includes/class-kata-helpers.php:251
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:31
+#: includes/theme-options/options/blog-options.php:28
+#: includes/theme-options/options/blog-options.php:38
+msgid "Blog"
+msgstr ""
+
+#: includes/class-kata-helpers.php:255
+#: woocommerce/single-product/meta.php:36
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-kata-helpers.php:257
+msgid "Search Results:"
+msgstr ""
+
+#: includes/class-kata-helpers.php:259
+#: includes/class-kata-helpers.php:261
+#: woocommerce/single-product/meta.php:38
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-kata-helpers.php:262
+#: template-parts/content-search.php:58
+#: template-parts/posts/post-aside.php:37
+msgid "Author:"
+msgstr ""
+
+#: includes/class-kata-helpers.php:486
+msgid "minute"
+msgstr ""
+
+#: includes/class-kata-helpers.php:488
+msgid "minutes"
+msgstr ""
+
+#: includes/class-kata-template-tags.php:166
+#: includes/theme-options/options/blog-options.php:131
+msgid "Author"
+msgstr ""
+
+#: includes/class-kata-template-tags.php:221
+msgid "author"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:69
+msgid "Styling Options"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:77
+msgid "Color Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:88
+msgid "Color Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:99
+msgid "Color Button Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:110
+msgid "Color Button Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:121
+msgid "Color Border Button Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:132
+msgid "Color Text Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:143
+msgid "Color Text Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:154
+msgid "Color Text Tertiary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:165
+msgid "Color Heading Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:176
+msgid "Color Heading Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:187
+msgid "Color Onsale Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:198
+msgid "Color Border Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:209
+msgid "Color Border Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:220
+msgid "Color Border Tertiary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:231
+msgid "Color Pagetitle BG Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:243
+msgid "Border Radius Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:244
+#: includes/class-kata-woocommerce.php:258
+#: includes/class-kata-woocommerce.php:272
+#: includes/class-kata-woocommerce.php:286
+#: includes/class-kata-woocommerce.php:300
+msgid "The value is in px"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:257
+msgid "Border Radius Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:271
+msgid "Font Size Primary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:285
+msgid "Font Size Secondary"
+msgstr ""
+
+#: includes/class-kata-woocommerce.php:299
+msgid "Font Size Tertiary"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:259
+msgid "Hello,"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:260
+msgid "Kata is now installed and ready to use. "
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:261
+msgid ""
+"To take full advantage of all the features in Kata theme and enabling its demo importer, please install the required plugins.\n"
+"This plugins grants you access to a range of powerful tools like:"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:264
+msgid "Starter Website Template Demos"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:265
+msgid "Header & Footer Builder"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:266
+msgid "Advanced Theme Options"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:267
+msgid "Practical Elementor Widgets + Styler"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:270
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:271
+msgid "Theme Dashboard"
+msgstr ""
+
+#: includes/dashboard/class-kata-dashboard.php:272
+msgid "Read full documentation"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:36
+msgid "Intro"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:37
+msgid "Demos"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:38
+msgid "Go Pro"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:39
+msgid "Support"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.header.tpl.php:40
+msgid "Help"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:22
+msgid "Start Customizing"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:24
+msgid "Site Identity"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:25
+msgid "Homepage Settings"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:26
+#: includes/theme-options/options/header-options.php:28
+msgid "Header"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:27
+#: includes/theme-options/options/container-options.php:30
+msgid "Container"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:28
+msgid "Page"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:29
+#: includes/theme-options/options/footer-options.php:27
+msgid "Footer"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:30
+msgid "Styling & Typography"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:32
+msgid "Menus"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:33
+msgid "Widgets"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:34
+msgid "Additional CSS"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:39
+msgid "Pro Features"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:41
+msgid "Kata Overview"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:41
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:42
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:43
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:44
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:45
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:46
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:47
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:48
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:49
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:50
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:51
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:52
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:53
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:54
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:55
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:56
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:57
+msgid "Learn More"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:42
+#: includes/theme-options/options/add-google-fonts-options.php:28
+msgid "Font Manager"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:43
+msgid "Portfolio Features"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:44
+msgid "Plugin Manager"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:45
+msgid "Header Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:46
+msgid "Footer Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:47
+msgid "Mega Menu Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:48
+msgid "Archive Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:49
+msgid "Author Page Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:50
+msgid "Search Resault Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:51
+msgid "404 Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:52
+msgid "Single Builder"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:53
+msgid "Icon Manager"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:54
+msgid "Section Templates Library"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:55
+msgid "Pro Theme Option"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:56
+msgid "Pro Styler"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:57
+msgid "Presets"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:65
+msgid "Import Starter Template"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:67
+msgid "Starter Templates"
+msgstr ""
+
+#. Translators: 1 replace with url
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:71
+msgid "Make sure to checkout Kata's %1$s Starter Template %2$s,"
+msgstr ""
+
+#. Translators: 1 replaced with link
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:76
+msgid "In just one simple click, you'll %1$s import your desired design %2$s and can start customizing your site."
+msgstr ""
+
+#. Translators: 1 replaced with link
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:81
+msgid "In just one simple click, you'll import your desired design and can start customizing your site. %1$sinstall plugins%2$s"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:89
+msgid "Documentation"
+msgstr ""
+
+#. translators: 1 replaced with link
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:94
+msgid "Are you familiare with how Kata works? Make sure to read our comprehensive %1$s online Documentation %2$s which includes helpful video tutorials"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:101
+msgid "Rate us"
+msgstr ""
+
+#. Translators: 1 replaced with Link
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:106
+msgid "Are you enjoying Kata? Please support us by leaving a positive review for us %1$shere%2$s"
+msgstr ""
+
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:113
+msgid "Kata Community"
+msgstr ""
+
+#. translators: 1 replaced with link
+#: includes/dashboard/parts/dashboard.main.content.tpl.php:118
+msgid "Feel free to join the Kata community and ask us technical questions, leave feedback or ask other users for help. %1$sjoin now%2$s"
+msgstr ""
+
+#: includes/theme-options/functions/theme-options-functions.php:1024
+msgid "There is a problem with customizer (theme options) data's please refresh the page to resolve the problem"
+msgstr ""
+
+#: includes/theme-options/options/add-google-fonts-options.php:38
+msgid "Add Font"
+msgstr ""
+
+#: includes/theme-options/options/add-google-fonts-options.php:40
+msgid "ADD NEW"
+msgstr ""
+
+#: includes/theme-options/options/add-google-fonts-options.php:43
+msgid "Google Font"
+msgstr ""
+
+#: includes/theme-options/options/add-google-fonts-options.php:61
+#: includes/theme-options/options/add-google-fonts-options.php:87
+msgid "Select Font"
+msgstr ""
+
+#: includes/theme-options/options/add-google-fonts-options.php:70
+msgid "Weights"
+msgstr ""
+
+#: includes/theme-options/options/add-google-fonts-options.php:71
+msgid "Fill the field with your desired font weights"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:48
+msgid "Single"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:61
+#: includes/theme-options/options/customizer-page-options.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:69
+#: includes/theme-options/options/customizer-page-options.php:135
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:72
+#: includes/theme-options/options/customizer-page-options.php:138
+#: includes/theme-options/options/footer-options.php:119
+#: includes/theme-options/options/footer-options.php:154
+msgid "None"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:73
+#: includes/theme-options/options/blog-options.php:96
+#: includes/theme-options/options/customizer-page-options.php:139
+msgid "Left"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:74
+#: includes/theme-options/options/blog-options.php:97
+#: includes/theme-options/options/customizer-page-options.php:140
+msgid "Right"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:75
+#: includes/theme-options/options/customizer-page-options.php:141
+msgid "Both"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:85
+msgid "Posts"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:93
+msgid "Thumbnail Position"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:106
+msgid "Post Structure"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:113
+msgid "Category"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:114
+msgid "Title"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:115
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:124
+msgid "Metadata Structure"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:130
+msgid "Date"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:140
+msgid "Excerpt length"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:141
+msgid "Sets the post excerpt length size"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:157
+msgid "Single Post"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:165
+msgid "Post Thumbnail"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:169
+#: includes/theme-options/options/blog-options.php:183
+#: includes/theme-options/options/blog-options.php:197
+#: includes/theme-options/options/blog-options.php:211
+#: includes/theme-options/options/blog-options.php:225
+#: includes/theme-options/options/blog-options.php:239
+#: includes/theme-options/options/blog-options.php:253
+#: includes/theme-options/options/footer-options.php:51
+#: includes/theme-options/options/footer-options.php:87
+msgid "Enable"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:170
+#: includes/theme-options/options/blog-options.php:184
+#: includes/theme-options/options/blog-options.php:198
+#: includes/theme-options/options/blog-options.php:212
+#: includes/theme-options/options/blog-options.php:226
+#: includes/theme-options/options/blog-options.php:240
+#: includes/theme-options/options/blog-options.php:254
+#: includes/theme-options/options/footer-options.php:52
+#: includes/theme-options/options/footer-options.php:88
+#: includes/theme-options/options/styling-options.php:53
+#: includes/theme-options/options/styling-options.php:131
+#: includes/theme-options/options/styling-options.php:209
+msgid "Disable"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:179
+msgid "Post Categories"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:193
+msgid "Post Title"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:207
+msgid "Post Date"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:221
+msgid "Post Author"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:235
+msgid "Post Tags"
+msgstr ""
+
+#: includes/theme-options/options/blog-options.php:249
+msgid "Post Socials"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:40
+msgid "Fluid Container"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:41
+msgid "Enable this option to have Wide Container in large screen"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:44
+#: includes/theme-options/options/footer-options.php:272
+#: includes/theme-options/options/footer-options.php:396
+#: includes/theme-options/options/header-options.php:167
+#: includes/theme-options/options/site-identity-options.php:44
+#: includes/theme-options/options/site-identity-options.php:57
+msgid "Enabled"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:45
+#: includes/theme-options/options/footer-options.php:273
+#: includes/theme-options/options/footer-options.php:397
+#: includes/theme-options/options/header-options.php:168
+#: includes/theme-options/options/site-identity-options.php:45
+#: includes/theme-options/options/site-identity-options.php:58
+msgid "Disabled"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:60
+msgid "Desktop"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:61
+msgid "Sets the responsive container size for desktop (The size is in px)"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:81
+msgid "Laptop"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:82
+msgid "Sets the responsive container size for laptop (The size is in px)"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:102
+msgid "Landscape Tablet View"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:103
+msgid "Sets the responsive container size for landscape tablet view (The size is in %)"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:123
+msgid "Tablet"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:124
+msgid "Sets the responsive container size for tablet (The size is in %)"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:144
+msgid "Mobile"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:145
+msgid "Sets the responsive container size for mobile (The size is in %)"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:165
+msgid "Small Mobile"
+msgstr ""
+
+#: includes/theme-options/options/container-options.php:166
+msgid "Sets the responsive container size for mobile small screen sizes"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:27
+msgid "Pages"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:39
+msgid "Page Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:47
+msgid "Show Page Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:50
+#: includes/theme-options/options/customizer-page-options.php:72
+#: includes/theme-options/options/customizer-page-options.php:94
+#: includes/theme-options/options/customizer-page-options.php:116
+msgid "Hide"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:51
+#: includes/theme-options/options/customizer-page-options.php:73
+#: includes/theme-options/options/customizer-page-options.php:95
+#: includes/theme-options/options/customizer-page-options.php:117
+msgid "Show"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:61
+msgid "Blog Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:69
+msgid "Show Blog Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:83
+msgid "Archive Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:91
+msgid "Show Archive Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:105
+msgid "Search Title"
+msgstr ""
+
+#: includes/theme-options/options/customizer-page-options.php:113
+msgid "Show Search Title"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:39
+#: includes/theme-options/options/footer-options.php:96
+#: includes/theme-options/options/header-options.php:39
+#: includes/theme-options/options/header-options.php:49
+#: includes/theme-options/options/site-identity-options.php:27
+msgid "Layout"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:47
+msgid "Widget Area"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:48
+#: includes/theme-options/options/footer-options.php:84
+msgid "By chooing enable you will abel add widgets to footer widgets are for showing widgets in footer."
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:60
+msgid "Background"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:83
+msgid "Footer Buttom"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:116
+msgid "First Section"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:121
+#: includes/theme-options/options/footer-options.php:156
+msgid "Custom Text"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:136
+msgid "First Custom Text"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:137
+msgid "Copyright ©[kata-date] all right reserved."
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:151
+msgid "Second Section"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:171
+msgid "Second Custom Text"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:172
+msgid "Email: contact@yourwebsite.com"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:187
+#: includes/theme-options/options/header-options.php:78
+msgid "Style"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:195
+#: includes/theme-options/options/footer-options.php:305
+#: includes/theme-options/options/header-options.php:88
+msgid "Background Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:196
+#: includes/theme-options/options/footer-options.php:306
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:207
+#: includes/theme-options/options/footer-options.php:317
+#: includes/theme-options/options/header-options.php:100
+msgid "Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:208
+#: includes/theme-options/options/footer-options.php:318
+msgid "Footer Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:219
+#: includes/theme-options/options/footer-options.php:329
+msgid "Hover Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:220
+#: includes/theme-options/options/footer-options.php:330
+msgid "Footer Hover Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:231
+#: includes/theme-options/options/footer-options.php:341
+msgid "Text Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:232
+#: includes/theme-options/options/footer-options.php:342
+msgid "Footer text color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:243
+#: includes/theme-options/options/footer-options.php:353
+#: includes/theme-options/options/header-options.php:124
+msgid "Height"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:244
+#: includes/theme-options/options/footer-options.php:354
+msgid "Footer height"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:257
+#: includes/theme-options/options/footer-options.php:381
+#: includes/theme-options/options/header-options.php:152
+msgid "Border Color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:258
+#: includes/theme-options/options/footer-options.php:382
+msgid "Footer border bottom color"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:269
+#: includes/theme-options/options/footer-options.php:393
+msgid "Full Width Footer"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:281
+#: includes/theme-options/options/footer-options.php:405
+msgid "Padding"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:282
+#: includes/theme-options/options/footer-options.php:406
+msgid "Enter the value with unit ex: 15px"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:297
+msgid "Footer Bottom Style"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:367
+msgid "Footer Bottom Border"
+msgstr ""
+
+#: includes/theme-options/options/footer-options.php:368
+msgid "Footer bottom border size"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:66
+msgid "Mobile Layout"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:89
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:101
+msgid "Header Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:112
+msgid "Hover Menu & Current Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:113
+msgid "Header Hover Menu & Current Menu Color"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:125
+msgid "Header height"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:138
+msgid "Border"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:139
+msgid "Header border bottom size"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:153
+msgid "Header border bottom color"
+msgstr ""
+
+#: includes/theme-options/options/header-options.php:164
+msgid "Full Width Header"
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:28
+msgid "Controls the site layout."
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:31
+msgid "Wide"
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:32
+msgid "Boxed"
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:40
+msgid "Responsive"
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:41
+msgid "Disable this option in case you don't need a responsive website."
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:53
+msgid "Scalable webpage"
+msgstr ""
+
+#: includes/theme-options/options/site-identity-options.php:54
+msgid "It allows the user to scale the webpage."
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:28
+msgid "Styling"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:40
+msgid "Basic Typography"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:49
+msgid "Body Typography"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:50
+msgid "Controls the typography of body."
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:54
+#: includes/theme-options/options/styling-options.php:132
+#: includes/theme-options/options/styling-options.php:210
+msgid "Enabel"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:63
+#: includes/theme-options/options/styling-options.php:141
+#: includes/theme-options/options/styling-options.php:219
+msgid "Font Family"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:78
+#: includes/theme-options/options/styling-options.php:156
+#: includes/theme-options/options/styling-options.php:234
+msgid "Font Properties"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:98
+#: includes/theme-options/options/styling-options.php:176
+#: includes/theme-options/options/styling-options.php:254
+msgid "Color"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:118
+#: includes/theme-options/options/styling-options.php:127
+msgid "Headings Typography"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:128
+msgid "Controls the typography of H1-H6."
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:196
+#: includes/theme-options/options/styling-options.php:205
+msgid "Nav Menu Typography"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:206
+msgid "Controls the typography of nav menu items."
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:273
+msgid "Advanced Styling"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:283
+msgid "Primary Color"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:296
+msgid "To more options please install Kata Plus"
+msgstr ""
+
+#: includes/theme-options/options/styling-options.php:299
+msgid "Plugins Installer"
+msgstr ""
+
+#: shop-press/cart-coupon.php:16
+#: woocommerce/checkout/form-coupon.php:48
+msgid "Apply"
+msgstr ""
+
+#: shop-press/cart-coupon.php:53
+#: shop-press/cart-table.php:165
+#: woocommerce/cart/cart.php:163
+#: woocommerce/checkout/form-coupon.php:47
+msgid "Coupon code"
+msgstr ""
+
+#: shop-press/cart-coupon.php:54
+#: shop-press/cart-table.php:165
+#: woocommerce/cart/cart.php:163
+msgid "Apply coupon"
+msgstr ""
+
+#: shop-press/cart-table.php:23
+#: shop-press/cart-table.php:54
+#: woocommerce/cart/cart.php:28
+#: woocommerce/cart/cart.php:47
+msgid "Item"
+msgstr ""
+
+#: shop-press/cart-table.php:24
+#: woocommerce/cart/cart.php:29
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: shop-press/cart-table.php:25
+#: woocommerce/cart/cart.php:30
+msgid "Price"
+msgstr ""
+
+#: shop-press/cart-table.php:86
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: shop-press/cart-table.php:93
+#: woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: shop-press/cart-table.php:115
+#: woocommerce/cart/cart-totals.php:30
+#: woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:109
+#: woocommerce/checkout/review-order.php:57
+msgid "Subtotal"
+msgstr ""
+
+#. translators: %s is the product name
+#: shop-press/cart-table.php:129
+msgid "Remove %s from cart"
+msgstr ""
+
+#: shop-press/cart-table.php:170
+#: woocommerce/cart/cart.php:168
+msgid "Update cart"
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:41
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:52
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:58
+msgid "We couldn’t find the page your looking for. the URL or a removed page."
+msgstr ""
+
+#: template-parts/content-none.php:64
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:54
+#: template-parts/posts/post-aside.php:33
+#: woocommerce/checkout/thankyou.php:58
+msgid "Date:"
+msgstr ""
+
+#: template-parts/loops/loop-author.php:93
+#: template-parts/loops/loop-default.php:102
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/posts/post-aside.php:50
+msgid "Tags : "
+msgstr ""
+
+#: template-parts/posts/post-aside.php:54
+msgid "Share : "
+msgstr ""
+
+#: template-parts/posts/post.php:87
+msgid "Tags"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Summary"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52
+#: woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#. translators: %s location.
+#: woocommerce/cart/cart-totals.php:72
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98
+#: woocommerce/cart/cart-totals.php:99
+#: woocommerce/checkout/review-order.php:94
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:30
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:44
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Shipping Method"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+#: woocommerce/checkout/form-pay.php:80
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:67
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:90
+msgid "Your order"
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/form-checkout.php:109
+#: woocommerce/checkout/payment.php:44
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:111
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:90
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:36
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Sorry, it seems that there are no available payment methods. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:76
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:86
+msgid "Pay with"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:41
+msgid "Hello"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:46
+msgid "Not"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:46
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:54
+msgid "Orders"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:63
+#: woocommerce/myaccount/dashboard.php:80
+#: woocommerce/myaccount/dashboard.php:97
+msgid "See All"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:71
+msgid "Wishlist Items"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:88
+msgid "Downloads"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:29
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:33
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:39
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:54
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:62
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:72
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:37
+msgid "Account pages"
+msgstr ""
+
+#. translators: %s: the order number, usually accompanied by a leading
+#: woocommerce/myaccount/orders.php:49
+msgid "View order number %s"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:50
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:62
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:103
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:107
+msgid "Next"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:114
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:114
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:44
+msgid "Expiry Date"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:69
+#: woocommerce/myaccount/payment-methods.php:84
+msgid "Add New Card"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:79
+msgid "No saved methods found."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+msgid "Write a Review"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:119
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:149
+msgid "There are no reviews yet."
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:160
+msgid "Add a review"
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:160
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:162
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:166
+msgid "Submit"
+msgstr ""
+
+#. translators: %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:202
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:206
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:207
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:208
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:209
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:210
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:211
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:212
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:224
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#. translators: 1 replaced with link
+#: woocommerce/single-product/rating.php:39
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/stock.php:24
+msgid "Availability:  "
+msgstr ""

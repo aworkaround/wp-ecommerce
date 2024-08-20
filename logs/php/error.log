@@ -1,0 +1,2 @@
+[20-Aug-2024 10:04:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Projects\wp\sharuk\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Aug-2024 10:11:13 UTC] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in D:\Projects\wp\sharuk\app\public\wp-content\plugins\kata-plus\includes\elementor\builders\01-builder-base.php on line 354

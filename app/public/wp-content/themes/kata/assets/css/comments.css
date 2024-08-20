@@ -1,0 +1,370 @@
+/* Comments
+-------------------------------------------------- */
+.kata-comments-area {
+	margin-top: 60px;
+	margin-bottom: 80px;
+}
+
+.kata-comments-area .comment-respond {
+	margin: 0 auto;
+}
+
+.kata-comments-area textarea {
+	padding: 18px 20px;
+	margin-bottom: 0;
+	height: 109px;
+}
+
+.kata-comments-area .comment-reply-title {
+	color: #070809;
+	font-size: 30px;
+	font-weight: 600;
+	margin-bottom: 7px;
+}
+
+.kata-comments-area .comment-notes {
+	font-size: 15px;
+	letter-spacing: 0.48px;
+	margin-bottom: 24px;
+	width: 100%;
+}
+
+.comment .comment-respond .comment-reply-title {
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.kata-comments-area .comment-respond {
+	padding-top: 35px;
+}
+
+.kata-comments-area textarea,
+.kata-comments-area input[type="text"],
+.kata-comments-area input[type="email"] {
+	border: 1px solid #e3e5e7;
+	width: 100%;
+	border-radius: 7px;
+}
+
+.kata-comments-area textarea:focus,
+.kata-comments-area input[type="text"]:focus,
+.kata-comments-area input[type="email"]:focus {
+	border: 1px solid var(--ct-base-color);
+	box-shadow: none;
+}
+
+#commentform {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.kata-comments-area .comment-form-comment,
+.kata-comments-area .comment-form-cookies-consent,
+.kata-comments-area .form-submit {
+	width: 100%;
+}
+
+.kata-comments-area .comment-form-author,
+.kata-comments-area .comment-form-email,
+.kata-comments-area .comment-form-url {
+	width: 100%;
+	margin-bottom: 14px;
+}
+
+.kata-comments-area p {
+	position: relative;
+}
+
+.kata-comments-area label {
+	color: #929394;
+	font-size: 15px;
+	font-weight: 400;
+	display: inline-block;
+}
+
+.kata-comments-area input[type="text"],
+.kata-comments-area input[type="email"] {
+	padding: 18px 15px;
+	margin-bottom: 20px;
+}
+
+.kata-comments-area .comment-form-comment label,
+.kata-comments-area .comment-form-url label {
+	position: absolute;
+	top: 15px;
+	left: 20px;
+}
+
+.kata-comments-area .comment-form-url {
+	clear: both;
+}
+
+@media (max-width: 768px) {
+	.kata-comments-area .comment-form-author,
+	.kata-comments-area .comment-form-email,
+	.kata-comments-area .comment-form-url {
+		width: 100%;
+	}
+}
+
+.kata-comments-area input[type="submit"] {
+	font-size: 15px;
+	background: var(--ct-base-color);
+	border: none;
+	color: #fff;
+	border-radius: 7px;
+	padding: 15px 33px;
+	letter-spacing: 1px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	text-transform: capitalize;
+	margin: 23px 0 0;
+}
+
+.kata-comments-area input[type="submit"]:focus,
+.kata-comments-area input[type="submit"]:active {
+	background: #000;
+	color: #fff;
+}
+
+#cancel-comment-reply-link {
+	padding: 7px 10px;
+	font-size: 12px !important;
+	font-weight: 400;
+	display: inline-block;
+	margin: 0 0 5px 8px;
+	background: var(--ct-base-color);
+	border-radius: 4px;
+	transform: translateY(-1px);
+	transition: all 0.3s ease;
+	color: #fff;
+	text-decoration: none;
+}
+
+.kata-comments-area input[type="submit"]:hover,
+#cancel-comment-reply-link:hover {
+	background: #000;
+	color: #fff;
+}
+
+.kata-comments-area .form-submit {
+	margin-bottom: 50px;
+}
+
+.kata-comments-area .comment-form-cookies-consent label {
+	display: inline;
+	line-height: 1.2;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.kata-comments-area .kata-comments-title {
+	color: #070809;
+	font-size: 28px;
+	font-weight: 700;
+}
+
+.kata-comments-area .kata-comment-list li.comment,
+.kata-comments-area .kata-comment-list li.pingback,
+.kata-comments-area .kata-comment-list li.trackback {
+	list-style: none;
+}
+
+.kata-comments-area .fn {
+	color: #070809;
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.kata-comments-area .comment-author .fn a {
+	color: #070809;
+	margin-right: 3px;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+
+.kata-comments-area a:hover,
+.kata-comments-area .comment-author .fn a:hover {
+	text-decoration: underline;
+}
+
+.kata-comments-area .says {
+	color: #070809;
+	font-size: 14px;
+	display: inline-block;
+	margin-top: 2px;
+	margin-right: 6px;
+	display: none;
+}
+
+.kata-comments-area .comment-metadata a {
+	color: #929394;
+	font-size: 14px;
+	letter-spacing: -0.2px;
+	text-decoration: none;
+}
+
+.kata-comments-area .comment-metadata a:hover {
+	color: #707273;
+	text-decoration: underline;
+}
+
+.kata-comments-area .comment-author.vcard {
+	position: relative;
+	margin-right: 15px;
+	padding-right: 21px;
+}
+
+.kata-comments-area .comment-author.vcard:before {
+	content: "";
+	width: 4px;
+	height: 4px;
+	border: 1px solid var(--ct-base-color);
+	position: absolute;
+	right: 0;
+	top: calc(50% - 3px);
+	border-radius: 50px;
+}
+
+.kata-comments-area .comment-body footer {
+	display: flex;
+	align-items: baseline;
+	flex-wrap: wrap;
+}
+
+.kata-comments-area .children {
+	margin-left: 60px;
+}
+
+.kata-comments-area .comment-author.vcard img {
+	margin-right: 7px;
+	border-radius: 50%;
+}
+
+.kata-comments-area .comment-content {
+	margin-left: 53px;
+	margin-top: 8px;
+	font-size: 16px;
+	letter-spacing: 0.1px;
+	max-width: 705px;
+}
+
+.kata-comments-area .comment-content p {
+	line-height: 1.78;
+}
+
+.kata-comments-area .comment-awaiting-moderation {
+	display: block;
+	margin-left: 105px;
+	color: #929394;
+}
+
+.kata-comments-area .reply {
+	margin-left: 50px;
+	position: relative;
+}
+
+.kata-comments-area img.avatar.avatar-32.photo {
+	margin-right: 20px;
+}
+
+.kata-comments-area .reply a {
+	color: #070809;
+	font-size: 14px;
+	font-weight: 600;
+	padding-left: 25px;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14.851' height='16.939' viewBox='0 0 14.851 16.939'%3E%3Cpath id='back-right' d='M16.851,17.406v1.18H8.491a6.491,6.491,0,1,1,0-12.982h3.437L8.805,2.481l.834-.834,4.547,4.547L9.64,10.743l-.834-.836,3.123-3.123H8.491a5.311,5.311,0,1,0,0,10.622Z' transform='translate(-2 -1.647)'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+}
+
+.kata-comments-area .reply a:hover {
+	color: var(--ct-base-color);
+}
+
+.kata-comments-area .kata-comment-list > li {
+	margin-bottom: 40px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #e3e4e6;
+}
+
+.kata-comments-area article.comment-body {
+	margin-top: 60px;
+}
+
+.kata-comments-area span.label-wrap {
+	position: absolute;
+	left: 15px;
+	top: 10px;
+}
+
+.kata-comments-area input[type="checkbox"],
+.kata-comments-area input[type="radio"] {
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	line-height: 12px;
+	min-height: 0;
+	background: #ffffff;
+	margin: 4px 9px 7px 0;
+	vertical-align: middle;
+	appearance: none;
+	border: 1px solid #e1e2e3;
+	border-radius: 4px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.03) inset;
+}
+
+.kata-comments-area input[type="radio"] {
+	border-radius: 20px;
+}
+
+.kata-comments-area input[type="checkbox"]:checked,
+.kata-comments-area input[type="radio"]:checked {
+	appearance: auto;
+}
+
+#popup input[type="checkbox"]:focus {
+	box-shadow: 0 0 0 1px #ffffff1c;
+}
+
+@media (max-width: 768px) {
+	.kata-comments-area .comment-content {
+		margin: 0;
+	}
+
+	.kata-comments-area .comment-author.vcard img {
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+
+	.kata-comments-area .children {
+		margin-left: 20px;
+		margin-top: 0;
+	}
+
+	.kata-comments-area .reply {
+		margin-left: 18px;
+	}
+
+	.kata-comments-area .comment-reply-title small {
+		display: block;
+	}
+
+	.kata-comments-area {
+		width: 95%;
+	}
+
+	.kata-comments-area .kata-comments-title {
+		font-size: 24px;
+	}
+}
+
+@media (max-width: 480px) {
+	.kata-comments-area .comment-author.vcard:before {
+		display: none;
+	}
+	.kata-comments-area .comment-body footer {
+		justify-content: space-between;
+	}
+}

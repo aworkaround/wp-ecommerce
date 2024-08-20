@@ -1,0 +1,100 @@
+.kata-notice {
+	padding: 19px 38px 38px 39px;
+	background-image: url("../img/kata-backend-notice-image.webp");
+	background-repeat: no-repeat;
+	background-position: 98% 26px;
+	background-size: auto;
+}
+
+.kata-notice .kata-notice-wrap {
+	max-width: 780px;
+}
+
+.kata-notice .kt-notice-description {
+	font-size: 14px;
+	color: #242526;
+}
+
+.kata-notice .kt-notice-username {
+	text-transform: capitalize;
+	font-size: 16px;
+	color: #242526;
+}
+
+.kata-notice .kt-notice-heading {
+	font-size: 20px;
+	color: #242526;
+}
+
+.kata-notice .kt-notice-list {
+	margin-top: 30px;
+	margin-bottom: 48px;
+}
+
+.kata-notice .kt-notice-list li {
+	font-size: 14px;
+	color: #242526;
+	line-height: 20px;
+}
+
+.kata-notice .kt-notice-list li:before {
+	content: "✓";
+	color: #17b53f;
+	font-weight: bold;
+	margin-right: 12px;
+}
+
+.kata-notice .kt-notice-button {
+	font-size: 14px;
+	background-color: #3858e9;
+	color: #fff;
+	border-radius: 4px;
+	text-decoration: none;
+	padding: 10px 21px;
+	margin-right: 17px;
+	border: 1px solid #3858e9;
+}
+
+.kata-notice .kt-notice-button.kt-empty-btn {
+	background-color: transparent;
+	color: #3858e9;
+}
+
+.kata-notice .kt-notice-link {
+	font-size: 14px;
+	color: #3858e9;
+}
+
+.kata-notice .kt-notice-link:before {
+	font-family: dashicons;
+	content: "\f504";
+	vertical-align: text-top;
+}
+
+@media (max-width: 1400px) {
+	.kata-notice {
+		background-size: 45%;
+	}
+
+	.kata-notice .kata-notice-wrap {
+		max-width: 55%;
+	}
+}
+
+@media (max-width: 1024px) {
+	.kata-notice {
+		background-size: 35%;
+		background-position: 98% 74%;
+	}
+
+	.kata-notice .kata-notice-wrap {
+		max-width: 100%;
+	}
+}
+
+@media (max-width: 640px) {
+	.kt-notice-link {
+		display: block;
+		margin-top: 20px;
+	}
+}

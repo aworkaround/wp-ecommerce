@@ -1,0 +1,9 @@
+<svg id="graph" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="Rectangle_10" data-name="Rectangle 10" fill="none" stroke="#7f8da0" stroke-width="1.6">
+    <rect width="18" height="18" rx="3" stroke="none"/>
+    <rect x="0.8" y="0.8" width="16.4" height="16.4" rx="2.2" fill="none"/>
+  </g>
+  <line id="Line_1" data-name="Line 1" y2="6" transform="translate(5.5 7.5)" fill="none" stroke="#7f8da0" stroke-linecap="round" stroke-width="1.6"/>
+  <line id="Line_3" data-name="Line 3" y2="4" transform="translate(13.5 9.5)" fill="none" stroke="#7f8da0" stroke-linecap="round" stroke-width="1.6"/>
+  <line id="Line_2" data-name="Line 2" y2="9" transform="translate(9.5 4.5)" fill="none" stroke="#7f8da0" stroke-linecap="round" stroke-width="1.6"/>
+</svg>
